@@ -1,0 +1,15 @@
+//Ringi kõrvale teine komponent-seier, võtab sama numbrit sisendiks.
+
+Public page, comment element.  Võiks olla nii, et lehekülg avaneb luba andes.
+Akki teeks nii, et nonhide elemendiga avaneb mupp ja sealt uus lehekülg...  Sinna kuvatakse mingi tulem ja public saab
+kommenteerida.  Kutsume kasvõi konsultatsiooni mooduliks.
+
+Geographic comparison lõpuni teha.
+
+Sektor comparison sisse tuua.
+
+Flash kaartide lahendus edasi teha, hetkel sisendi analüüsi all...  Flash kaart võiks probleemi korral punaseks minna, 
+hea olukorra korral roheline olla, muidu kollane...
+
+Sisendi lehekülg.
+
